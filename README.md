@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Sreekanth Kunchapu — PhD Researcher, AI4Science" src="./dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="Sreekanth Kunchapu — PhD Researcher, AI4Science" src="./banner-dark.svg" width="100%">
 </picture>
 
 <br><br>
@@ -33,19 +33,7 @@ Final-year PhD student at **Friedrich-Schiller University Jena**, advised by **D
 - **[PolyStabilis](https://github.com/lamalab-org/PolyStabilis)** — ML models for polymer stability prediction on small experimental datasets.
 - **GH-GNN** — Gibbs–Helmholtz graph neural network predicting infinite-dilution activity coefficients of polymer solutions, with OCR-based data pipelines. *J. Phys. Chem. A, 2023.*
 
-<!-- ---
-
-## Selected Publications
-
-- **Kunchapu, S.**, Mirza, A., Prastalo, G., Jablonka, K. M. (2026). *Improving Models by Combining Multimodal Datasets in the Chemical Sciences.* Preprint — code archived on Zenodo: [10.5281/zenodo.21101919](https://doi.org/10.5281/zenodo.21101919).
-- **Kunchapu, S.**, Mirza, A., et al. (2025). *PolyBind: Effectively Combining Datasets Indexed in Different Representations of Polymers.* NeurIPS 2025, AI for Accelerated Materials Design.
-- Köhler, T., **Kunchapu, S.**, et al. (2025). *Predicting acetalated dextran nanoparticle features: controlled synthesis, formulation and testing in a high-throughput process.*
-- **Kunchapu, S.**, Jablonka, K. M. (2025). *PolyMetriX: an ecosystem for digital polymer chemistry.* npj Computational Materials.
-- Mirza, A., Alampara, N., **Kunchapu, S.**, Ríos-García, M., et al. (2025). *A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists.* Nature Chemistry.
-- Sanchez Medina, E. I., **Kunchapu, S.**, Sundmacher, K. (2023). *Gibbs–Helmholtz graph neural network for the prediction of activity coefficients of polymer solutions at infinite dilution.* The Journal of Physical Chemistry A. -->
-
 ---
-
 ## Tech
 
 - **ML / AI** — PyTorch · PyTorch Geometric · PyTorch Lightning · Hugging Face · MLflow · Weights & Biases · Hydra
