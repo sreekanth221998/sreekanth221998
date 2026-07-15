@@ -35,7 +35,7 @@ Final-year PhD student at **Friedrich-Schiller University Jena**, advised by **D
 
 ---
 
-## Selected Publications
+<!-- ## Selected Publications
 
 - **Kunchapu, S.**, Mirza, A., Prastalo, G., Jablonka, K. M. (2026). *Improving Models by Combining Multimodal Datasets in the Chemical Sciences.* Preprint — code archived on Zenodo: [10.5281/zenodo.21101919](https://doi.org/10.5281/zenodo.21101919).
 - **Kunchapu, S.**, Mirza, A., et al. (2025). *PolyBind: Effectively Combining Datasets Indexed in Different Representations of Polymers.* NeurIPS 2025, AI for Accelerated Materials Design.
@@ -44,7 +44,7 @@ Final-year PhD student at **Friedrich-Schiller University Jena**, advised by **D
 - Mirza, A., Alampara, N., **Kunchapu, S.**, Ríos-García, M., et al. (2025). *A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists.* Nature Chemistry.
 - Sanchez Medina, E. I., **Kunchapu, S.**, Sundmacher, K. (2023). *Gibbs–Helmholtz graph neural network for the prediction of activity coefficients of polymer solutions at infinite dilution.* The Journal of Physical Chemistry A.
 
----
+--- -->
 
 ## Tech
 
