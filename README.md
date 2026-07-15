@@ -40,4 +40,3 @@ Final-year PhD student at **Friedrich-Schiller University Jena**, advised by **D
 - **Chem-informatics** — RDKit
 - **Data** — Pandas · Matplotlib · Seaborn · Tableau
 - **HPC** — SLURM · distributed training
-- **Deployment** — Streamlit · BayBE (Bayesian optimization)
